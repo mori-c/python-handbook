@@ -1,2 +1,2 @@
 # python-handbook
-Personal collection of reference decks and notebooks of hand-coded snippets and sample code
+Personal reference collection of decks and notebooks of hand-coded sample code and snippets
