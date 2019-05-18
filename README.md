@@ -8,15 +8,14 @@
 Table of Contents
 
 
-| 📋  |  -  |  -  | Subject                        |  
-| :-: | :-: | :-: | :-                             |
-| A   |     |     | Environment setup |
-| B   |     |     | Application / program structure |
-| D   |     |     | Fundamentals |
-|     | 1.0 |     | 1.0  \|  Data Types |
-|     | 2.0 |     | Conditions |
-|     |     | 2.1 | 2.1 \| Booleans |  
-
+| 📋  |  -  |  -  | Subject                         |  
+| :-: | :-: | :-: | :-                              |
+| A   |     |     | Environment Setup               |
+| B   |     |     | Application / Program Structure |
+| D   |     |     | Fundamentals                    |
+|     | 1.0 |     | ⋅⋅⋅ Data Types                      |
+|     | 2.0 |     | ⋅⋅ Conditions                      |
+|     |     | 2.1 | ⋅ Booleans                        |  
 
 
 A. Environment setup  <!-- sup> [01](#oreilly-beazley) ・ [02](#oreilly-mckellar)</sup -->
