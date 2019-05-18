@@ -4,9 +4,9 @@
 
 > Personal reference collection of decks and notebooks of hand-coded sample code and snippets
 
+<br /> 
 
-Table of Contents
-
+## Table of Contents
 
 | 📋  |  -  |  -  | Subject                         |  
 | :-: | :-: | :-: | :-                              |
