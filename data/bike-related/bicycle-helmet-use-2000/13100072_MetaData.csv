@@ -1,0 +1,161 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Bicycle helmet use, by age group and sex, household population aged 12 and over, selected provinces and health regions (January 2000 boundaries)",13100072,105-0047,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310007201",1;2;3;7;8,"ARCHIVED -  a cube publicly available but no longer being updated","Every 2 years",2000-01-01,2000-01-01,5
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,3;7;8,
+2,"Age group",,
+3,Sex,,
+4,"Bicycle helmet use",2;3,
+5,Characteristics,4;5;6;12,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,"Ontario by District Health Council",35,46,,,9,
+1,"Champlain District Health Council, Ontario",3501,47,46,,,
+1,"Quinte-Kingston and Rideau District Health Council, Ontario",3502,48,46,,,
+1,"Durham-Haliburton-Kawartha and Pine Ridge District Health Council, Ontario",3503,49,46,,,
+1,"Toronto District Health Council, Ontario",3504,50,46,,,
+1,"Simcoe-York District Health Council, Ontario",3505,51,46,,,
+1,"Halton-Peel District Health Council, Ontario",3506,52,46,,,
+1,"Waterloo-Wellington-Dufferin District Health Council, Ontario",3507,53,46,,,
+1,"Hamilton-Wentworth District Health Council, Ontario",3508,54,46,,,
+1,"Niagara District Health Council, Ontario",3509,55,46,,,
+1,"Grand River District Health Council, Ontario",3510,56,46,,,
+1,"Thames Valley District Health Council, Ontario",3511,57,46,,,
+1,"Essex-Kent and Lambton District Health Council, Ontario",3512,58,46,,,
+1,"Grey-Bruce-Huron and Perth District Health Council, Ontario",3513,59,46,,,
+1,"Muskoka-Nipissing and Parry Sound District Health Council, Ontario",3514,60,46,,,
+1,"Algoma-Cochrane-Manitoulin and Sudbury District Health Council, Ontario",3515,61,46,,,
+1,"Northwestern Ontario District Health Council, Ontario",3516,62,46,,,
+1,"Ontario by Health Unit",35,63,,,9,
+1,"Algoma Public Health Unit, Ontario (Peer group H)",3526,64,63,,,
+1,"Brant Public Health Unit, Ontario (Peer group I)",3527,65,63,,,
+1,"Durham Public Health Unit, Ontario (Peer group J)",3530,66,63,,,
+1,"Elgin-St Thomas Public Health Unit, Ontario (Peer group I)",3531,67,63,,,
+1,"Bruce-Grey-Owen Sound Public Health Unit, Ontario (Peer group I)",3533,68,63,,,
+1,"Haldimand-Norfolk Public Health Unit, Ontario (Peer group I)",3534,69,63,,,
+1,"Haliburton-Kawartha-Pine Ridge Public Health Unit, Ontario (Peer group I)",3535,70,63,,,
+1,"Halton Public Health Unit, Ontario (Peer group J)",3536,71,63,,,
+1,"Hamilton Public Health Unit, Ontario (Peer group H)",3537,72,63,,,
+1,"Hastings and Prince Edward Public Health Unit, Ontario (Peer group I)",3538,73,63,,,
+1,"Huron Public Health Unit, Ontario (Peer group G)",3539,74,63,,,
+1,"Kent-Chatham Public Health Unit, Ontario (Peer group I)",3540,75,63,,,
+1,"Kingston-Frontenac-Lennox and Addington Public Health Unit, Ontario (Peer group I)",3541,76,63,,,
+1,"Lambton Public Health Unit, Ontario (Peer group I)",3542,77,63,,,
+1,"Leeds-Grenville-Lanark Public Health Unit, Ontario (Peer group I)",3543,78,63,,,
+1,"Middlesex-London Public Health Unit, Ontario (Peer group I)",3544,79,63,,,
+1,"Muskoka-Parry Sound Public Health Unit, Ontario (Peer group E)",3545,80,63,,,
+1,"Niagara Public Health Unit, Ontario (Peer group I)",3546,81,63,,,
+1,"North Bay Public Health Unit, Ontario (Peer group H)",3547,82,63,,,
+1,"Northwestern Public Health Unit, Ontario (Peer group G)",3549,83,63,,,
+1,"Ottawa Public Health Unit, Ontario (Peer group B)",3551,84,63,,,
+1,"Oxford Public Health Unit, Ontario (Peer group I)",3552,85,63,,,
+1,"Peel Public Health Unit, Ontario (Peer group B)",3553,86,63,,,
+1,"Perth Public Health Unit, Ontario (Peer group G)",3554,87,63,,,
+1,"Peterborough Public Health Unit, Ontario (Peer group I)",3555,88,63,,,
+1,"Porcupine Public Health Unit, Ontario (Peer group H)",3556,89,63,,,
+1,"Renfrew Public Health Unit, Ontario (Peer group G)",3557,90,63,,,
+1,"Eastern Ontario Public Health Unit, Ontario (Peer group I)",3558,91,63,,,
+1,"Simcoe Public Health Unit, Ontario (Peer group J)",3560,92,63,,,
+1,"Sudbury Public Health Unit, Ontario (Peer group H)",3561,93,63,,,
+1,"Thunder Bay Public Health Unit, Ontario (Peer group I)",3562,94,63,,,
+1,"Timiskaming Public Health Unit, Ontario (Peer group E)",3563,95,63,,,
+1,"Waterloo Public Health Unit, Ontario (Peer group I)",3565,96,63,,,
+1,"Wellington-Dufferin-Guelph Public Health Unit, Ontario (Peer group J)",3566,97,63,,,
+1,"Windsor-Essex Public Health Unit, Ontario (Peer group I)",3568,98,63,,,
+1,"York Public Health Unit, Ontario (Peer group B)",3570,99,63,,,
+1,"Toronto Public Health Unit, Ontario (Peer group A)",3595,100,63,,,
+1,Saskatchewan,47,115,,,3;10,
+1,"Swift Current Service Area, Saskatchewan (Peer group G)",4703,118,115,,,
+1,"Regina Service Area, Saskatchewan (Peer group I)",4704,119,115,,,
+1,"Saskatoon Service Area, Saskatchewan (Peer group I)",4706,121,115,,,
+1,"Rosetown Service Area, Saskatchewan (Peer group G)",4707,122,115,,,
+1,"Melfort Service Area, Saskatchewan (Peer group E)",4708,123,115,,,
+1,Alberta,48,127,,,11,
+1,"Chinook Regional Health Authority, Alberta (Peer group G)",4801,128,127,,,
+1,"Palliser Health Authority, Alberta (Peer group G)",4802,129,127,,,
+1,"Headwaters Health Authority, Alberta (Peer group J)",4803,130,127,,,
+1,"Calgary Regional Health Authority, Alberta (Peer group B)",4804,131,127,,,
+1,"Health Authority #5, Alberta (Peer group G)",4805,132,127,,,
+1,"David Thompson Regional Health Authority, Alberta (Peer group G)",4806,133,127,,,
+1,"East Central Health Authority, Alberta (Peer group G)",4807,134,127,,,
+1,"Westview Regional Health Authority, Alberta (Peer group J)",4808,135,127,,,
+1,"Crossroads Regional Health Authority, Alberta (Peer group G)",4809,136,127,,,
+1,"Capital Health Authority, Alberta (Peer group B)",4810,137,127,,,
+1,"Aspen Regional Health Authority, Alberta (Peer group G)",4811,138,127,,,
+1,"Lakeland Regional Health Authority, Alberta (Peer group G)",4812,139,127,,,
+1,"Mistahia Regional Health Authority, Alberta (Peer group F)",4813,140,127,,,
+1,"Peace Regional Health Authority, Alberta (Peer group G)",4814,141,127,,,
+1,"Keeweetinok Lakes Regional Health Authority, Alberta (Peer group F)",4815,142,127,,,
+1,"Northern Lights Regional Health Authority, Alberta (Peer group F)",4816,143,127,,,
+1,"Northwestern Regional Health Authority, Alberta (Peer group F)",4817,144,127,,,
+2,"Total, 12 years and over",,1,,,,
+2,"12 to 19 years",,2,1,,,
+2,"12 to 14 years",,3,2,,,
+2,"15 to 19 years",,4,2,,,
+2,"20 to 34 years",,5,1,,,
+2,"20 to 24 years",,6,5,,,
+2,"25 to 34 years",,7,5,,,
+2,"35 to 44 years",,8,1,,,
+2,"45 to 64 years",,9,1,,,
+2,"45 to 54 years",,10,9,,,
+2,"55 to 64 years",,11,9,,,
+2,"65 years and over",,12,1,,,
+2,"65 to 74 years",,13,12,,,
+2,"75 years and over",,14,12,,,
+3,"Both sexes",,1,,,,
+3,Males,,2,1,,,
+3,Females,,3,1,,,
+4,"Total, bicycle helmet use",,1,,,,
+4,"Bicycle helmet use, always",,2,1,,,
+4,"Bicycle helmet use, most of the time",,3,1,,,
+4,"Bicycle helmet use, rarely",,4,1,,,
+4,"Bicycle helmet use, never",,5,1,,,
+4,"Bicycle helmet use, not stated",,6,1,,,
+5,"Number of persons",,1,,,,
+5,"Low 95% confidence interval, number of persons",,2,,,,
+5,"High 95% confidence interval, number of persons",,3,,,,
+5,"Coefficient of variation for number of persons",,4,,,,
+5,Percent,,5,,,,
+5,"Low 95% confidence interval, percent",,6,,,,
+5,"High 95% confidence interval, percent",,7,,,,
+5,"Coefficient of variation for percent",,8,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3226,"Canadian Community Health Survey - Annual Component"
+
+"Subject Code","Subject Name"
+13,Health
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Community Health Survey, 2000/2001. More current data are in CANSIM table 105-0501."
+2,"Population aged 12 and over who reported bicycle helmet use habits."
+3,"Provincial estimates were given only for those provinces in which survey respondents in all health regions answered the ""Use of protective equipment"" module."
+4,"Bootstrapping techniques were used to produce the coefficient of variation (CV) and 95% confidence intervals (CIs)."
+5,"Data with a coefficient of variation (CV) from 16.6% to 33.3% are identified by an (E) and should be interpreted with caution."
+6,"Data with a coefficient of variation (CV) greater than 33.3% were suppressed (F) due to extreme sampling variability."
+7,"Health regions are defined by provincial governments as the areas of responsibility for regional health boards (legislated) or as regions of interest to health care authorities."
+8,"A ""peer group"" is a grouping of health regions that have similar social and economic characteristics."
+9,"In Ontario, Public Health Units (PHU) administer health promotion and disease prevention programs, and  District Health Councils (DHC) are advisory, health planning organizations."
+10,"In Saskatchewan, Service Areas (SA) have been created from groupings of the 33 health districts."
+11,"In Alberta, health regions are referred to as Health Authorities (HA) or Regional Health Authorities (RHA)."
+12,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+
+"Correction ID","Correction Date","Correction Note"
+
