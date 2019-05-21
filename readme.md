@@ -6,6 +6,12 @@
 
 <br /> 
 
+**TODO**
+
+> Checkout [Issues](https://github.com/mori-c/python-handbook/issues/1) on left off comment notes
+
+<br /> 
+
 ## Table of Contents
 
 | 📋  |  -  |  -  | Subject                         |  
