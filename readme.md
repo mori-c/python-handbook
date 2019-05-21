@@ -12,7 +12,7 @@
 | :-: | :-: | :-: | :-                              |
 | A   |     |     | Environment Setup               |
 | B   |     |     | Application / Program Structure |
-| C   |     |     | Fundamentals                    |
+| C   |     |     | [Syntax](https://nbviewer.jupyter.org/github/mori-c/python-handbook/blob/master/reference.ipynb)  |
 | D   |     |     | CSV & Text Processing           |
 | D   |     |     | Fundamentals                    |
 |     | 1.0 |     |・ Data Types                     |
